@@ -1,41 +1,47 @@
->**Deployment of Portfolio Project**
+**Deployment of Portfolio Project**
 
->>This project is the desktop version portfolio project following Figma template.
->>This project contains my own information.
->>This is written in HTML and CSS. Linter checks are used to make it error free.
->>This contains "hover" action as well as "animation" action.
+This project is the desktop version portfolio project following Figma template.
+This project contains my own information.
+This is written in HTML and CSS. Linter checks are used to make it error free.
+This contains "hover" action as well as "animation" action.
 
->**Built With**
+**Built With**
 
->>•	CSS and HTML
->>•	Github Page
+•	CSS and HTML
 
->**Live Demo **
+•	Github Page
 
->>https://chuaindia.github.io/
+**Live Demo**
 
->**Getting Started**
+https://chuaindia.github.io/
 
->>This is an exercise creating a new repository, uploading all the files from previously built repository, gitpage option is utilized to deploy the website selecting “page” option from “settings” of newly created repository. Content of the live website is checked. 
+**Getting Started**
 
->**Author**
+This is an exercise creating a new repository, uploading all the files from previously built repository, gitpage option is utilized to deploy the website selecting “page” option from “settings” of newly created repository. Content of the live website is checked. 
 
-  >>Tanusri Ghosh
+**Author**
+
+Tanusri Ghosh
 	
->>>•	GitHub: @chuaindia
->>>•	Twitter: @chuaghosh25
->>>•	LinkedIn: tanusri-ghosh-2a56b814
+• GitHub: @chuaindia
 
->**Contributing**
+• Twitter: @chuaghosh25
+
+• LinkedIn: tanusri-ghosh-2a56b814
+
+**Contributing**
 	
->>Contributions, issues, and feature requests are welcome!
->>Feel free to check the issues page.
->>Show your support
->>Give a * if you like this project!
+Contributions, issues, and feature requests are welcome!
+Feel free to check the issues page.
+Show your support
+Give a * if you like this project!
 
->**Acknowledgments**
+**Acknowledgments**
 
-•	Code Reviewer’s review guided me to make my project flawless. 
-  License
+•  Code Reviewer’s review guided me to make my project flawless.
+
+License
+
 This project is MIT licensed.
+
 NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
