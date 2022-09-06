@@ -34,7 +34,7 @@ Last deployed by @github-pages github-pages 8 minutes ago"
 
 Follow the link to check whether desktop version is created or not.
 
-**Live Server Link :** https://chuaindia.github.io/
+**Live Demo :** https://chuaindia.github.io/
 
 
 Author: Tanusri Ghosh
