@@ -9,6 +9,8 @@ This project contains my own information.
 
 This is written in HTML and CSS. Linter checks are used to make it error free.
 
+This contains "hover" action as well as "animation" action.
+
 **Prerequisites :**
 
 GITHUB concepts
