@@ -1,58 +1,41 @@
-**Project Name**
-**Deployment of Portfolio in Website **
+**Deployment of Portfolio Project**
 
-This project is the portfolio project following figma template.
+This project is the desktop version portfolio project following Figma template. This project contains my own information. This is written in HTML and CSS. Linter checks are used to make it error free. This contains "hover" action as well as "animation" action.
 
-This is Desktop version.
+**Built With**
 
-This project contains my own information. 
+• CSS and HTML
 
-This is written in HTML and CSS. Linter checks are used to make it error free.
+• Github Page
 
-This contains "hover" action as well as "animation" action.
+**Live Demo**
 
-**Prerequisites :**
+https://chuaindia.github.io/
 
-GITHUB concepts
-HTML
-CSS
-FIGMA
-GITHUB pages
+**Getting Started**
 
-**Work Flow :**
+This is an exercise creating a new repository, uploading all the files from previously built repository, gitpage option is utilized to deploy the website selecting “page” option from “settings” of newly created repository. Content of the live website is checked.
 
-chuandia.github.io repository is created.
+**Author**
 
-Files are uploaded from the local "Portfolio" repository.
+Tanusri Ghosh
 
-In the "Code" section all the required files are there or not is checked.
+• GitHub: @chuaindia
 
-Then "page" is selected under "settings" button.
+• Twitter: @chuaghosh25
 
-This message is checked ---- "Your site is live at https://chuaindia.github.io/
-Last deployed by @github-pages github-pages 8 minutes ago"
+• LinkedIn: tanusri-ghosh-2a56b814
 
-Follow the link to check whether desktop version is created or not.
+**Contributing**
 
-**Live Demo :** https://chuaindia.github.io/
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page. Show your support Give a * if you like this project!
 
+**Acknowledgments**
 
-**Author:** Tanusri Ghosh
+• Code Reviewer’s review guided me to make my project flawless.
 
-**Contacts:**
-
-e-mail: tghosh25@gmail.com
-
-Twitter: https://twitter.com/chuaghosh25
-
-LinkedIn: https://www.linkedin.com/in/tanusri-ghosh-2a56b814
-
-GitHub: https://github.com/chuaindia
-
-All sorts of contributions, issues, and feature requests regarding the project are welcome!
-
-memo License
+**License**
 
 This project is MIT licensed.
 
-This project is MIT licensed.
+NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
