@@ -37,9 +37,10 @@ Follow the link to check whether desktop version is created or not.
 **Live Demo :** https://chuaindia.github.io/
 
 
-Author: Tanusri Ghosh
+**Author:** Tanusri Ghosh
 
-Contacts:
+**Contacts:**
+
 e-mail id: tghosh25@gmail.com
 
 Twitter url: https://twitter.com/chuaghosh25
