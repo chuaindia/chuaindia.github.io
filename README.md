@@ -1,8 +1,13 @@
 Project Name
 Deployment of Portfolio in Website :
 
-This project is the portfolio project following figma template. This is Desktop version. This project contains my
-own information. This is written in HTML and CSS. Linter checks are used to make it error free.
+This project is the portfolio project following figma template.
+
+This is Desktop version.
+
+This project contains my own information. 
+
+This is written in HTML and CSS. Linter checks are used to make it error free.
 
 Prerequisites :
 
@@ -15,12 +20,20 @@ GITHUB pages
 Work Flow :
 
 chuandia.github.io repository is created.
+
 Files are uploaded from the local "Portfolio" repository.
+
 In the "Code" section all the required files are there or not is checked.
+
 Then "page" is selected under "settings" button.
 
+This message is checked ---- "Your site is live at https://chuaindia.github.io/
+Last deployed by @github-pages github-pages 8 minutes ago"
 
-Live Server Link :
+Follow the link to check whether desktop version is created or not.
+
+Live Server Link : https://chuaindia.github.io/
+
 
 Author: Tanusri Ghosh
 
