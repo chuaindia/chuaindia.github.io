@@ -40,7 +40,7 @@ Give a * if you like this project!
 
 •  Code Reviewer’s review guided me to make my project flawless.
 
-License
+**License**
 
 This project is MIT licensed.
 
