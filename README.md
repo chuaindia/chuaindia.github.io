@@ -1,5 +1,5 @@
-Project Name
-Deployment of Portfolio in Website :
+**Project Name**
+**Deployment of Portfolio in Website **
 
 This project is the portfolio project following figma template.
 
@@ -9,7 +9,7 @@ This project contains my own information.
 
 This is written in HTML and CSS. Linter checks are used to make it error free.
 
-Prerequisites :
+**Prerequisites :**
 
 GITHUB concepts
 HTML
@@ -17,7 +17,7 @@ CSS
 FIGMA
 GITHUB pages
 
-Work Flow :
+**Work Flow :**
 
 chuandia.github.io repository is created.
 
@@ -32,7 +32,7 @@ Last deployed by @github-pages github-pages 8 minutes ago"
 
 Follow the link to check whether desktop version is created or not.
 
-Live Server Link : https://chuaindia.github.io/
+**Live Server Link :** https://chuaindia.github.io/
 
 
 Author: Tanusri Ghosh
