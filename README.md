@@ -41,13 +41,13 @@ Follow the link to check whether desktop version is created or not.
 
 **Contacts:**
 
-e-mail id: tghosh25@gmail.com
+e-mail: tghosh25@gmail.com
 
-Twitter url: https://twitter.com/chuaghosh25
+Twitter: https://twitter.com/chuaghosh25
 
-LinkedIn url: https://www.linkedin.com/in/tanusri-ghosh-2a56b814
+LinkedIn: https://www.linkedin.com/in/tanusri-ghosh-2a56b814
 
-GitHub url: https://github.com/chuaindia
+GitHub: https://github.com/chuaindia
 
 All sorts of contributions, issues, and feature requests regarding the project are welcome!
 
